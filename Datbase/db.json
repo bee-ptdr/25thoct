@@ -1,0 +1,84 @@
+{
+  "posts": [
+    {
+      "restName": "Guru Kripa",
+      "restOwnName": "Bijesh Patidar",
+      "contact": "7697684275",
+      "altContact": "9669305466",
+      "address": "Vijay Nagar",
+      "city": "Indore",
+      "zip": "452018",
+      "id": 1
+    },
+    {
+      "restName": "Apna Sweet",
+      "restOwnName": "qqqqq",
+      "contact": "1234",
+      "altContact": "1234",
+      "address": "Khajrana Indore4242",
+      "city": "qwer",
+      "zip": "1234",
+      "id": 3
+    },
+    {
+      "restName": "HHHNNNN",
+      "restOwnName": "qwer",
+      "contact": "fgfgfdg",
+      "altContact": "fgdfgf",
+      "address": "fgfd",
+      "city": "",
+      "zip": "",
+      "id": 4
+    },
+    {
+      "restName": "",
+      "restOwnName": "",
+      "contact": "",
+      "altContact": "",
+      "address": "",
+      "city": "",
+      "zip": "",
+      "id": 5
+    },
+    {
+      "restName": "",
+      "restOwnName": "",
+      "contact": "",
+      "altContact": "",
+      "address": "",
+      "city": "",
+      "zip": "",
+      "id": 6
+    },
+    {
+      "restName": "",
+      "restOwnName": "",
+      "contact": "",
+      "altContact": "",
+      "address": "",
+      "city": "",
+      "zip": "",
+      "id": 7
+    },
+    {
+      "restName": "Guru Kripa 2",
+      "restOwnName": "",
+      "contact": "",
+      "altContact": "",
+      "address": "",
+      "city": "",
+      "zip": "",
+      "id": 8
+    },
+    {
+      "restName": "",
+      "restOwnName": "",
+      "contact": "",
+      "altContact": "",
+      "address": "",
+      "city": "",
+      "zip": "",
+      "id": 9
+    }
+  ]
+}
